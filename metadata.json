@@ -1,0 +1,6 @@
+{
+  "name": "DealTiki",
+  "description": "India's smartest live deal discovery platform featuring real-time offers, coupons, and discounts from Amazon, Flipkart, Croma, and hundreds of top merchants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
