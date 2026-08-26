@@ -1059,6 +1059,8 @@ app.get("/api/health", async (req, res) => {
   });
 });
 
+export default app;
+
 async function startServer() {
   if (process.env.NODE_ENV !== "production") {
     const vite = await createViteServer({

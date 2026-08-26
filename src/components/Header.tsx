@@ -129,7 +129,7 @@ export const Header: React.FC<HeaderProps> = ({
 
           {/* Telegram Community Link / Pill */}
           <a
-            href="https://t.me/"
+            href="https://t.me/dealtiki"
             target="_blank"
             rel="noopener noreferrer"
             className="hidden sm:inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-yellow-400/10 hover:bg-yellow-400/20 border border-yellow-400/30 text-yellow-400 text-xs font-bold transition-colors"
